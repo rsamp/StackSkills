@@ -1,0 +1,16 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Express app with ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+  },
+  "author": "Ryan Samp",
+  "license": "UNLICENSED"
+}
